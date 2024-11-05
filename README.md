@@ -1,1 +1,1 @@
-# TESNET_Sonium
+# TESNET_Soneium
